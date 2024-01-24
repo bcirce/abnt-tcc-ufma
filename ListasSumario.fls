@@ -1,0 +1,7 @@
+PWD C:/Users/barba/OneDrive/GITHUB/abnt-tcc-ufma
+INPUT c:/texlive/2023/texmf.cnf
+INPUT c:/texlive/2023/texmf-dist/web2c/texmf.cnf
+INPUT c:/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT ListasSumario.tex
+OUTPUT ListasSumario.log
+OUTPUT ListasSumario.pdf

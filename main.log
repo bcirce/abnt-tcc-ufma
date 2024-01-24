@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.1.4)  22 JAN 2024 23:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.1.4)  24 JAN 2024 18:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -830,49 +830,49 @@ Package: times 2020/03/25 PSNFSS-v9.3 (SPQR)
 \cftquadroindent=\skip276
 \cftquadronumwidth=\skip277
 )
-Package color Info: Redefining color blue on input line 71.
+Package color Info: Redefining color blue on input line 72.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 88.
+(hyperref)                removing `\@ifnextchar' on input line 89.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\bigskipamount' on input line 88.
+(hyperref)                removing `\bigskipamount' on input line 89.
 
-Package hyperref Info: Option `colorlinks' set `true' on input line 88.
+Package hyperref Info: Option `colorlinks' set `true' on input line 89.
 \main@idxfile=\write4
 \openout4 = `main.idx'.
 
 Writing index file main.idx 
-LaTeX Font Info:    Trying to load font information for T1+ptm on input line 98
-.
+LaTeX Font Info:    Trying to load font information for T1+ptm on input line 10
+0.
 (c:/texlive/2023/texmf-dist/tex/latex/psnfss/t1ptm.fd
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 ) (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 98.
-LaTeX Font Info:    ... okay on input line 98.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 98.
-LaTeX Font Info:    ... okay on input line 98.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 98.
-LaTeX Font Info:    ... okay on input line 98.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 98.
-LaTeX Font Info:    ... okay on input line 98.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 98.
-LaTeX Font Info:    ... okay on input line 98.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 98.
-LaTeX Font Info:    ... okay on input line 98.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 98.
-LaTeX Font Info:    ... okay on input line 98.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 98.
-LaTeX Font Info:    ... okay on input line 98.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 98.
-LaTeX Font Info:    ... okay on input line 98.
-Package hyperref Info: Link coloring ON on input line 98.
-LaTeX Info: Redefining \degres on input line 98.
-LaTeX Info: Redefining \up on input line 98.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 100.
+LaTeX Font Info:    ... okay on input line 100.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 100.
+LaTeX Font Info:    ... okay on input line 100.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 100.
+LaTeX Font Info:    ... okay on input line 100.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 100.
+LaTeX Font Info:    ... okay on input line 100.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 100.
+LaTeX Font Info:    ... okay on input line 100.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 100.
+LaTeX Font Info:    ... okay on input line 100.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 100.
+LaTeX Font Info:    ... okay on input line 100.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 100.
+LaTeX Font Info:    ... okay on input line 100.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 100.
+LaTeX Font Info:    ... okay on input line 100.
+Package hyperref Info: Link coloring ON on input line 100.
+LaTeX Info: Redefining \degres on input line 100.
+LaTeX Info: Redefining \up on input line 100.
 \myptabbox=\box59
 \myptabboxwidth=\skip278
 
@@ -898,19 +898,19 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Info: Redefining \microtypecontext on input line 98.
-Package microtype Info: Applying patch `item' on input line 98.
-Package microtype Info: Applying patch `toc' on input line 98.
-Package microtype Info: Applying patch `eqnum' on input line 98.
-Package microtype Info: Applying patch `footnote' on input line 98.
-Package microtype Info: Applying patch `verbatim' on input line 98.
+LaTeX Info: Redefining \microtypecontext on input line 100.
+Package microtype Info: Applying patch `item' on input line 100.
+Package microtype Info: Applying patch `toc' on input line 100.
+Package microtype Info: Applying patch `eqnum' on input line 100.
+Package microtype Info: Applying patch `footnote' on input line 100.
+Package microtype Info: Applying patch `verbatim' on input line 100.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 98.
+LaTeX Info: Redefining \showhyphens on input line 100.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -952,58 +952,9 @@ File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-(./PaginasIniciais.tex
-*geometry* verbose mode - [ newgeometry ] result:
-* driver: pdftex
-* paper: a4paper
-* layout: <same size as paper>
-* layoutoffset:(h,v)=(0.0pt,0.0pt)
-* modes: twoside 
-* h-part:(L,W,R)=(85.35826pt, 426.79135pt, 85.35826pt)
-* v-part:(T,H,B)=(56.9055pt, 752.57541pt, 35.56593pt)
-* \paperwidth=597.50787pt
-* \paperheight=845.04684pt
-* \textwidth=426.79135pt
-* \textheight=752.57541pt
-* \oddsidemargin=13.08827pt
-* \evensidemargin=13.08827pt
-* \topmargin=-49.73828pt
-* \headheight=14.5pt
-* \headsep=19.8738pt
-* \topskip=12.0pt
-* \footskip=30.0pt
-* \marginparwidth=42.9055pt
-* \marginparsep=7.0pt
-* \columnsep=10.0pt
-* \skip\footins=12.0pt plus 4.0pt minus 4.0pt
-* \hoffset=0.0pt
-* \voffset=0.0pt
-* \mag=1000
-* \@twocolumnfalse
-* \@twosidetrue
-* \@mparswitchtrue
-* \@reversemarginfalse
-* (1in=72.27pt=25.4mm, 1cm=28.453pt)
-
-<ufma-logo.png, id=4, 578.16pt x 434.62375pt>
-File: ufma-logo.png Graphic file (type png)
-<use ufma-logo.png>
-Package pdftex.def Info: ufma-logo.png  used on input line 16.
-(pdftex.def)             Requested size: 144.53964pt x 108.65567pt.
- [1
-
-
-{c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2023/
-texmf-dist/fonts/enc/dvips/base/8r.enc} <./ufma-logo.png>] [2
-
-]
-LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 2
-4.
- (c:/texlive/2023/texmf-dist/tex/latex/psnfss/ts1ptm.fd
-File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
-)
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 2
-4.
+(./ListasSumario.tex (./main.toc
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 6
+.
 
 (c:/texlive/2023/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
@@ -1012,75 +963,46 @@ File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 2
-4.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 6
+.
 
 (c:/texlive/2023/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-24.
+6.
 
 (c:/texlive/2023/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-24.
+6.
 
 (c:/texlive/2023/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 24.
+(Font)              <12> on input line 6.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 24.
+(Font)              <8> on input line 6.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 24.
+(Font)              <6> on input line 6.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <14.4> on input line 16.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 16.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 16.
+) [1
 
-pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.24 
-      [1
+{c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2023/
+texmf-dist/fonts/enc/dvips/base/8r.enc}] [2
 
-
-]
-*geometry* verbose mode - [ newgeometry ] result:
-* driver: pdftex
-* paper: a4paper
-* layout: <same size as paper>
-* layoutoffset:(h,v)=(0.0pt,0.0pt)
-* modes: twoside 
-* h-part:(L,W,R)=(85.35826pt, 426.79135pt, 85.35826pt)
-* v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
-* \paperwidth=597.50787pt
-* \paperheight=845.04684pt
-* \textwidth=426.79135pt
-* \textheight=731.23584pt
-* \oddsidemargin=13.08827pt
-* \evensidemargin=13.08827pt
-* \topmargin=-49.73828pt
-* \headheight=14.5pt
-* \headsep=19.8738pt
-* \topskip=12.0pt
-* \footskip=30.0pt
-* \marginparwidth=42.9055pt
-* \marginparsep=7.0pt
-* \columnsep=10.0pt
-* \skip\footins=12.0pt plus 4.0pt minus 4.0pt
-* \hoffset=0.0pt
-* \voffset=0.0pt
-* \mag=1000
-* \@twocolumnfalse
-* \@twosidetrue
-* \@mparswitchtrue
-* \@reversemarginfalse
-* (1in=72.27pt=25.4mm, 1cm=28.453pt)
-
-LaTeX Font Info:    Trying to load font information for T1+phv on input line 48
+]) (./Conteudo.tex
+LaTeX Font Info:    Trying to load font information for T1+phv on input line 10
 .
- (c:/texlive/2023/texmf-dist/tex/latex/psnfss/t1phv.fd
+
+(c:/texlive/2023/texmf-dist/tex/latex/psnfss/t1phv.fd
 File: t1phv.fd 2020/03/25 scalable font definitions for T1/phv.
 )
 Package microtype Info: Loading generic protrusion settings for font family
@@ -1088,221 +1010,78 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
-Underfull \hbox (badness 10000) in paragraph at lines 76--76
 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 76--76
-
- []
-
-LaTeX Font Info:    Trying to load font information for TS1+phv on input line 7
-6.
-(c:/texlive/2023/texmf-dist/tex/latex/psnfss/ts1phv.fd
-File: ts1phv.fd 2020/03/25 scalable font definitions for TS1/phv.
-)
-Package microtype Info: Loading generic protrusion settings for font family
-(microtype)             `phv' (encoding: TS1).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
-
-Underfull \hbox (badness 10000) in paragraph at lines 76--76
-
- []
+LaTeX Warning: Citation `abntex2classe' on page 3 undefined on input line 18.
 
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 76.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 76.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 76.
+(Font)              <5> on input line 25.
 
-pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.79 \restoregeometry
-                      [2
-
-]
-
-LaTeX Warning: Citation `NBR14724:2011' on page 3 undefined on input line 88.
-
-[3
+LaTeX Warning: Citation `abntex2-wiki-como-customizar' on page 3 undefined on i
+nput line 33.
 
 
-] [4
-
-]
-*geometry* verbose mode - [ newgeometry ] result:
-* driver: pdftex
-* paper: a4paper
-* layout: <same size as paper>
-* layoutoffset:(h,v)=(0.0pt,0.0pt)
-* modes: twoside 
-* h-part:(L,W,R)=(85.35826pt, 426.79135pt, 85.35826pt)
-* v-part:(T,H,B)=(85.35826pt, 724.12265pt, 35.56593pt)
-* \paperwidth=597.50787pt
-* \paperheight=845.04684pt
-* \textwidth=426.79135pt
-* \textheight=724.12265pt
-* \oddsidemargin=13.08827pt
-* \evensidemargin=13.08827pt
-* \topmargin=-21.28552pt
-* \headheight=14.5pt
-* \headsep=19.8738pt
-* \topskip=12.0pt
-* \footskip=30.0pt
-* \marginparwidth=42.9055pt
-* \marginparsep=7.0pt
-* \columnsep=10.0pt
-* \skip\footins=12.0pt plus 4.0pt minus 4.0pt
-* \hoffset=0.0pt
-* \voffset=0.0pt
-* \mag=1000
-* \@twocolumnfalse
-* \@twosidetrue
-* \@mparswitchtrue
-* \@reversemarginfalse
-* (1in=72.27pt=25.4mm, 1cm=28.453pt)
-
- [5
+LaTeX Warning: Citation `abntex2classe' on page 3 undefined on input line 36.
 
 
-] [6
-
-] [7] [8
-
-] [9
-
-] [10
-
-] [11] [12
-
-]
-
-LaTeX Warning: Citation `NBR6028:2003' on page 13 undefined on input line 229.
-
-[13] [14
-
-] [15] [16
-
-] [17] [18
-
-]
-LaTeX Info: Redefining \. on input line 264.
-LaTeX Info: Redefining \% on input line 264.
- [19] [20
-
-]) (./ListasSumario.tex (./main.lof)
-[21] [22
-
-] (./main.loq) [23] [24
-
-] (./main.lot) [25] [26
-
-] [27
-
-] [28
-
-] [29
-
-{c:/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{c:/texlive/2023/texmf
--dist/fonts/enc/dvips/lm/lm-mathit.enc}{c:/texlive/2023/texmf-dist/fonts/enc/dv
-ips/lm/lm-mathsy.enc}] [30
-
-] (./main.toc
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <14.4> on input line 22.
-) [31] [32
-
-]) (./Conteudo.tex
-
-LaTeX Warning: Citation `abntex2classe' on page 33 undefined on input line 18.
+LaTeX Warning: Citation `abntex2cite' on page 3 undefined on input line 36.
 
 
-LaTeX Warning: Citation `abntex2-wiki-como-customizar' on page 33 undefined on 
-input line 33.
+LaTeX Warning: Citation `abntex2cite-alf' on page 3 undefined on input line 36.
 
 
-LaTeX Warning: Citation `abntex2classe' on page 33 undefined on input line 36.
 
-
-LaTeX Warning: Citation `abntex2cite' on page 33 undefined on input line 36.
-
-
-LaTeX Warning: Citation `abntex2cite-alf' on page 33 undefined on input line 36
-.
-
-
-LaTeX Warning: Citation `memoir' on page 33 undefined on input line 37.
+LaTeX Warning: Citation `memoir' on page 3 undefined on input line 37.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [33
+ [3
 
 ]
 
-LaTeX Warning: Citation `abntex2classe' on page 34 undefined on input line 51.
+LaTeX Warning: Citation `abntex2classe' on page 4 undefined on input line 53.
 
 
-LaTeX Warning: Citation `abntex2-wiki-como-customizar' on page 34 undefined on 
-input line 66.
+LaTeX Warning: Citation `abntex2-wiki-como-customizar' on page 4 undefined on i
+nput line 68.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [34])
+ [4])
 (./PaginasFinais.tex (./main.bbl (./main.brf)
 \tf@brf=\write5
 \openout5 = `main.brf'.
 
- [35] [36
+ [5] [6
 
 ]
 bibitemlist
-) [37] [38
+) [7] [8
 
 ]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\uppercase' on input line 33.
 
-[39
+[9
 
-] [40] [41
+] [10] [11
 
-] [42
-
-] [43] [44
+] [12
 
 ]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\uppercase' on input line 61.
+(hyperref)                removing `\uppercase' on input line 56.
 
-[45
+[13
 
-] [46] [47
+] [14]) (./main.ind) [15
 
-] [48
-
-] [49] [50
-
-]) (./main.ind) [51]
-\tf@lof=\write6
-\openout6 = `main.lof'.
-
-\tf@loq=\write7
-\openout7 = `main.loq'.
-
-\tf@lot=\write8
-\openout8 = `main.lot'.
-
-\tf@toc=\write9
-\openout9 = `main.toc'.
+]
+\tf@toc=\write6
+\openout6 = `main.toc'.
 
  (./main.aux)
  ***********
@@ -1314,26 +1093,24 @@ L3 programming layer <2020/03/25>
 LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `main.brf' has not changed.
-(rerunfilecheck)             Checksum: 891B5868F6A6A1CE9D456EE7B2BE4F50;646.
+(rerunfilecheck)             Checksum: 52CCE3ECBCE1613A315FCC4B2F2B026E;529.
  ) 
 Here is how much of TeX's memory you used:
- 20159 strings out of 474175
- 323846 string characters out of 5749699
+ 19758 strings out of 474175
+ 318231 string characters out of 5749699
  1933460 words of memory out of 5000000
- 41799 multiletter control sequences out of 15000+600000
- 631999 words of font info for 218 fonts, out of 8000000 for 9000
+ 41569 multiletter control sequences out of 15000+600000
+ 621045 words of font info for 169 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,12n,107p,1580b,716s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmmi12.pfb><c:/texlive/2023
-/texmf-dist/fonts/type1/public/lm/lmr12.pfb><c:/texlive/2023/texmf-dist/fonts/t
-ype1/public/lm/lmsy10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/urw/helvetic/
-uhvr8a.pfb><c:/texlive/2023/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/tex
-live/2023/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/2023/texmf-di
-st/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (53 pages, 227261 bytes).
+ 99i,12n,107p,1579b,586s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/texlive/2023/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb><c:/texlive/2
+023/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texlive/2023/texmf-dist/fon
+ts/type1/urw/times/utmr8a.pfb><c:/texlive/2023/texmf-dist/fonts/type1/urw/times
+/utmri8a.pfb>
+Output written on main.pdf (15 pages, 66426 bytes).
 PDF statistics:
- 474 PDF objects out of 1000 (max. 8388607)
- 399 compressed objects within 4 object streams
- 109 named destinations out of 1000 (max. 500000)
- 61150 words of extra memory for PDF output out of 61914 (max. 10000000)
+ 170 PDF objects out of 1000 (max. 8388607)
+ 143 compressed objects within 2 object streams
+ 33 named destinations out of 1000 (max. 500000)
+ 44625 words of extra memory for PDF output out of 51595 (max. 10000000)
 

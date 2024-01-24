@@ -32,9 +32,9 @@
 			abnt-etal-text=it,  %formata o "et al" em itálico nas citações e referências
 			]{abntex2cite}	% Citações padrão ABNT
 
-% ------------------ 
-% Pacote de fonte 
-% -----------------
+% ------------------------------
+% Pacote de fonte e fonte hacks
+% ------------------------------
 \usepackage{times} %times new roman 
 %\setmainfont{Arial} %ony if compiling with XeTeX/LuaTeX (fontspec)
 
@@ -42,11 +42,20 @@
 % \usepackage{helvet}
 % \renewcommand{\familydefault}{\sfdefault}
 
+
 \renewcommand{\ABNTEXchapterfont}{\fontseries{b}\selectfont}
 \renewcommand{\ABNTEXchapterfontsize}{\normalsize}
 \renewcommand{\ABNTEXsectionfontsize}{\normalsize}
 \renewcommand{\ABNTEXsubsectionfont}{}
 
+%% Fonte do sumário: mude aqui
+%----
+\renewcommand{\cftsectionfont}{\bfseries}
+\renewcommand{\cftsectionpagefont}{\cftsectionfont}
+\renewcommand{\cftsubsectionfont}{\normalfont\normalsize}
+\renewcommand{\cftsubsectionpagefont}{\cftsubsectionfont}
+\renewcommand{\cftsubsubsectionfont}{\normalfont\normalsize}
+\renewcommand{\cftsubsubsectionpagefont}{\cftsubsubsectionfont}
 
 % ---------------------------------------
 % Configurações da CAPA e FOLHA DE ROSTO 
@@ -149,7 +158,7 @@
 	\fi}%
 % ---
 
-% ---
+% --------------------------------------------------------
 % Posiciona figuras e tabelas no topo da página quando adicionadas sozinhas
 % em um página em branco. Ver https://github.com/abntex/abntex2/issues/170
 \makeatletter
@@ -157,7 +166,7 @@
 \makeatother
 % ---
 
-% ---
+% -------------------------------------------------------
 % Possibilita criação de Quadros e Lista de quadros.
 % Ver https://github.com/abntex/abntex2/issues/176
 %
@@ -177,12 +186,13 @@
 \setfloatlocations{quadro}{hbtp} % Ver https://github.com/abntex/abntex2/issues/176
 % ---
 
-% --- 
+% ---------------------------------------
 % Espaçamentos entre linhas e parágrafos 
-% --- 
+% ---------------------------------------
 
 % O tamanho do parágrafo é dado por:
 \setlength{\parindent}{1.5cm}
 
 % Controle do espaçamento entre um parágrafo e outro:
 \setlength{\parskip}{0.2cm}  % tente também \onelineskip
+
